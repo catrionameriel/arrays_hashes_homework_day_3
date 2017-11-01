@@ -17,7 +17,6 @@ lines = ['Gyle Centre', 'Edinburgh Park', 'Murrayfield Stadium', 'Haymarket', 'P
 # puts lines.fetch(4)
 # puts lines.select { |x| x.include? "Pr"}
 # puts lines.values_at(4)
-# # COME BACK TO THIS ONE!!!
 
 # # 4. Work out the index position of 'Haymarket'
 # puts lines.index("Haymarket")
